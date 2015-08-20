@@ -1,0 +1,52 @@
+.topBorder{
+	float:top;
+	width:1420px;
+	height:100px;
+	background-color: #999;
+	
+}
+.input-group{
+	width:300px;
+	float:left;
+	padding-top: 10px;
+}
+
+.carouselKeep{
+	width:1000px;
+	margin-right: 300px;
+
+}
+
+.search{
+float:right;	
+}
+
+
+.btn-group-vertical{
+	float:left;
+	padding-left: 25px;
+	padding-top: 30px;
+
+}
+
+.btn-primary{
+	margin-bottom: 35px;
+}
+
+.logo{
+	float:center;
+	padding-left: 500px;
+
+}
+
+.sideImages{
+	float:right;
+	width:280px;
+	height:200px;
+	padding-right:40px;
+	padding-top:20px;
+    
+}
+
+
+
